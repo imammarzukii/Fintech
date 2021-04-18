@@ -2,4 +2,4 @@
 
 hasil : 
 
-(https://github.com/imammarzukii/Fintech/blob/main/Hasil.PNG)
+<img src="https://github.com/imammarzukii/Fintech/blob/main/Hasil.PNG">
